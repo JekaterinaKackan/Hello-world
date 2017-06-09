@@ -14,5 +14,9 @@
 	}
     th
     {
-     background-color: #ccccff;
+     background-color: rgba(102, 204, 255, 0.8)
     }
+	td
+	{
+	 background-color: #cceeff;	
+	}
