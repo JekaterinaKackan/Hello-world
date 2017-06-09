@@ -10,16 +10,16 @@
 	}
 	table, th, td 
 	{
-    border: 1px solid black;
-    border-collapse: collapse;
+    	border: 1px solid black;
+    	border-collapse: collapse;
 	}
     th
     {
-     background-color: rgba(102, 204, 255, 0.8)
+    	background-color: rgba(102, 204, 255, 0.8)
     }
 	td
 	{
-	 background-color: #cceeff;	
+		background-color: #cceeff;	
 	}
 	@import url('https://fonts.googleapis.com/css?family=Montserrat:300i');
 	body
