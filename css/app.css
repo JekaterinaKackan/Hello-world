@@ -19,9 +19,19 @@ h1 {
         background-color: #cceeff;
     }
     @import url('https://fonts.googleapis.com/css?family=Montserrat:300i');
+    
     body {
         font-family: 'Montserrat', sans-serif;
+        transition: background-color 1s;
     }
+
     ul {
         list-style-type: circle;
+    }
+
+    @media screen and (max-width:640px) {
+		body{
+    		background-color: blue
+
+    	}
     }
